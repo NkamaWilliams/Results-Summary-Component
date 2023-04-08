@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/NkamaWilliams/Results-Summary-Component/)
-- Live Site URL: [Add live site URL here](https://ntwresults.netlify.app/)
+- Solution URL: [https://github.com/NkamaWilliams/Results-Summary-Component/](https://github.com/NkamaWilliams/Results-Summary-Component/)
+- Live Site URL: [https://ntwresults.netlify.app/](https://ntwresults.netlify.app/)
 
 ## My process
 
